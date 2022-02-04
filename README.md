@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnthuo
-- 👀 I’m interested in Computer programming and its applications to problem solving.
-- 🌱 I’m currently learning Python and SQL.
+- 👀 I’m interested in Computer Machine Learning, Data Science, Web Development and its applications to problem solving.
+- 🌱 I’m currently learning Web Development(JavaScript, HTML, CSS, NodeJs).
 - 📫 Reach me via e-mail : j.mwangi@alustudent.com
 
 <!---
